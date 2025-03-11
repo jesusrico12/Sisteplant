@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Sisteplant.ConsoleApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
